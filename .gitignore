@@ -37,7 +37,7 @@ yarn-error.log
 testem.log
 /typings
 /src/assets
-/_course-resources
+_course-resources
 
 # System files
 .DS_Store
